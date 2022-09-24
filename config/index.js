@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o0PMa6xlGnd3b8QHgb1hRvsWRX0Y',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'yHr3eR2bKioubdqIHMqhyl8iWowx4HEuFsAnN-CM0iQ',
+      useTemplateId: 'plfO57EVQ25U8m7j5fRvsYIVgO1Yody4b9-4_zNJMvo',
       // 所在省份
       province: '安徽',
       // 所在城市
@@ -82,7 +82,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '王远洋', year: '1999', date: '09-29',
+          type: '*生日', name: '王远洋', year: '1999', date: '12-22',
         },
         {
           type: '1', name: '1', year: '2020', date: '09-03',
