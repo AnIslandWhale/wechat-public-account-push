@@ -174,13 +174,13 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '狗子',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o0PMa6xlGnd3b8QHgb1hRvsWRX0Y',
+      id: 'o0PMa6wqJ3N1bpkGaXvkPkJqtHj0',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '2uuAclLZ6ahU2m_jZdfQERe_jnjtfp9DGg3z2bD5uLU',
+      useTemplateId: 'zKCFKruBz_TBMeFjFVn3LhSvlAJPO0eg3fbzozn5YfM',
       // 所在省份
-      province: '安徽',
+      province: '浙江',
       // 所在城市
-      city: '淮南',
+      city: '嘉兴',
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '04-22',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -191,7 +191,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '狗子2', year: '1999', date: '09-29',
+          type: '*生日', name: '你的', year: '1999', date: '09-29',
         },
         {
           type: '1', name: '1', year: '2020', date: '09-03',
@@ -283,13 +283,13 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '程宇',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o0PMa6xlGnd3b8QHgb1hRvsWRX0Y',
+      id: 'o0PMa642HVaGLLq1aYFiHFMtZs7g',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '0ghcJQdrup2MwWEIZcJ_SM4e5VGRlfVH82PxNHvy_3o',
+      useTemplateId: 'plfO57EVQ25U8m7j5fRvsYIVgO1Yody4b9-4_zNJMvo',
       // 所在省份
-      province: '安徽',
+      province: '瑞典',
       // 所在城市
-      city: '淮南',
+      city: '斯德哥尔摩',
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '04-22',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -300,7 +300,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '人', year: '1999', date: '09-29',
+          type: '*生日', name: '你的', year: '1999', date: '12-22',
         },
         {
           type: '1', name: '1', year: '2020', date: '09-03',
